@@ -1,0 +1,7 @@
+/cmake-build-debug-jetson-tx2/
+/build/
+.vscode/settings.json
+/cmake-build-debug/
+/cmake-build-release/
+/.idea/
+/deps/
